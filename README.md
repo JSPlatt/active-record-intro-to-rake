@@ -125,7 +125,6 @@ desc 'outputs hello to the terminal'
   task :hola do
     puts "hola de Rake!"
   end
-end
 ```
 
 Now, to use either of our Rake tasks, we use the following syntax:
